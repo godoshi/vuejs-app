@@ -2,8 +2,6 @@
 
 node.js 8.16.0
 npm 8.3.1
-@vue/cli 4.5.15
-vue 2.6.11
 
 ## Suggested
 [nvm](https://github.com/nvm-sh/nvm)
