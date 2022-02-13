@@ -32,7 +32,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## TODO
 
-1. Unit Testing
-2. CI/CD
-3. Contanierization
-4. Upgrade Vue.js & Vuetify
+- Componentize
+- Vue Router
+- Authentication
+- Unit Testing
+- CI/CD
+- Contanierization
+- Upgrade Vue.js & Vuetify
